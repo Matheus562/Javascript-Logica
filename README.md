@@ -1,1 +1,1 @@
-Logica de Programação em Javascript
+Lógica de Programação em Javascript
